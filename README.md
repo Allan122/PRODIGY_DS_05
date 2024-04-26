@@ -6,7 +6,7 @@
 This project involves analyzing traffic accident data to identify patterns related to road conditions, weather conditions, and time of day. The goal is to visualize accident hotspots and uncover contributing factors to traffic accidents.
 
 ## Dataset
-The dataset used for this analysis can be found https://drive.google.com/file/d/1GsfNDLtJwwj-XuO4Rw00UOL2NP0lYyNe/view?usp=drive_link. 
+The dataset used for this analysis can be found https://drive.google.com/file/d/1GsfNDLtJwwj-XuO4Rw00UOL2NP0lYyNe/view?usp=drive_link. \
 It contains information about various aspects of traffic accidents, including road conditions, weather conditions, time of day, and contributing factors.
 
 ## Analysis Steps
