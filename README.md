@@ -18,11 +18,9 @@ It contains information about various aspects of traffic accidents, including ro
 2. **Exploratory Data Analysis (EDA):**
    - Visualize distributions of road conditions, weather conditions, and time of day.
    - Identify correlations and patterns in the data.
-   - Determine accident hotspots based on geographical information if available.
 
 3. **Visualization:**
-   - Create visualizations such as histograms, bar plots, scatter plots, and heatmaps to represent the data.
-   - Generate maps to visualize accident locations and hotspots.
+   - Create visualizations such as bar plots and scatter plots to represent the data.
 
 4. **Insights and Recommendations:**
    - Analyze the findings from EDA and visualizations.
